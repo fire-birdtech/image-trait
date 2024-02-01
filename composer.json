@@ -1,5 +1,5 @@
 {
-    "name": "fire-birdtech/image-trait",
+    "name": "firebird/image-trait",
     "description": "Adds a trait for an image attached to Eloquent models",
     "homepage": "https://github.com/fire-birdtech/image-trait",
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FireBirdTech\\HasImage\\": "src/"
+            "FireBird\\HasImage\\": "src/"
         }
     },
     "authors": [

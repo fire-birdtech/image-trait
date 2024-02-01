@@ -1,6 +1,6 @@
 <?php
 
-namespace FireBirdTech\HasImage;
+namespace FireBird\HasImage;
 
 use Illuminate\Http\UploadedFile;
 use Illuminate\Support\Facades\Storage;
